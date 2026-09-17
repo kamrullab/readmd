@@ -1,1 +1,362 @@
-[{"name":"React","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"},{"name":"TypeScript","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"},{"name":"JavaScript","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"},{"name":"Python","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"},{"name":"Next.js","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"},{"name":"Node.js","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"},{"name":"Docker","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"},{"name":"PostgreSQL","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"},{"name":"MongoDB","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"},{"name":"GitHub Actions","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"},{"name":"Tailwind CSS","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"},{"name":"Git","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"},{"name":"Vite","icon":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"}]
+[
+  {
+    "slug": "react",
+    "icon": "https://skillicons.dev/icons?i=react",
+    "category": "Frontend",
+    "name": "React"
+  },
+  {
+    "slug": "ts",
+    "icon": "https://skillicons.dev/icons?i=ts",
+    "category": "Languages",
+    "name": "TypeScript"
+  },
+  {
+    "slug": "js",
+    "icon": "https://skillicons.dev/icons?i=js",
+    "category": "Languages",
+    "name": "JavaScript"
+  },
+  {
+    "slug": "py",
+    "icon": "https://skillicons.dev/icons?i=py",
+    "category": "Languages",
+    "name": "Python"
+  },
+  {
+    "slug": "java",
+    "icon": "https://skillicons.dev/icons?i=java",
+    "category": "Languages",
+    "name": "Java"
+  },
+  {
+    "slug": "c",
+    "icon": "https://skillicons.dev/icons?i=c",
+    "category": "Languages",
+    "name": "C"
+  },
+  {
+    "slug": "cpp",
+    "icon": "https://skillicons.dev/icons?i=cpp",
+    "category": "Languages",
+    "name": "C++"
+  },
+  {
+    "slug": "cs",
+    "icon": "https://skillicons.dev/icons?i=cs",
+    "category": "Languages",
+    "name": "C#"
+  },
+  {
+    "slug": "go",
+    "icon": "https://skillicons.dev/icons?i=go",
+    "category": "Languages",
+    "name": "Go"
+  },
+  {
+    "slug": "rust",
+    "icon": "https://skillicons.dev/icons?i=rust",
+    "category": "Languages",
+    "name": "Rust"
+  },
+  {
+    "slug": "php",
+    "icon": "https://skillicons.dev/icons?i=php",
+    "category": "Languages",
+    "name": "PHP"
+  },
+  {
+    "slug": "ruby",
+    "icon": "https://skillicons.dev/icons?i=ruby",
+    "category": "Languages",
+    "name": "Ruby"
+  },
+  {
+    "slug": "swift",
+    "icon": "https://skillicons.dev/icons?i=swift",
+    "category": "Languages",
+    "name": "Swift"
+  },
+  {
+    "slug": "kotlin",
+    "icon": "https://skillicons.dev/icons?i=kotlin",
+    "category": "Languages",
+    "name": "Kotlin"
+  },
+  {
+    "slug": "dart",
+    "icon": "https://skillicons.dev/icons?i=dart",
+    "category": "Languages",
+    "name": "Dart"
+  },
+  {
+    "slug": "html",
+    "icon": "https://skillicons.dev/icons?i=html",
+    "category": "Frontend",
+    "name": "HTML5"
+  },
+  {
+    "slug": "css",
+    "icon": "https://skillicons.dev/icons?i=css",
+    "category": "Frontend",
+    "name": "CSS3"
+  },
+  {
+    "slug": "sass",
+    "icon": "https://skillicons.dev/icons?i=sass",
+    "category": "Frontend",
+    "name": "Sass"
+  },
+  {
+    "slug": "tailwind",
+    "icon": "https://skillicons.dev/icons?i=tailwind",
+    "category": "Frontend",
+    "name": "Tailwind CSS"
+  },
+  {
+    "slug": "bootstrap",
+    "icon": "https://skillicons.dev/icons?i=bootstrap",
+    "category": "Frontend",
+    "name": "Bootstrap"
+  },
+  {
+    "slug": "vue",
+    "icon": "https://skillicons.dev/icons?i=vue",
+    "category": "Frontend",
+    "name": "Vue.js"
+  },
+  {
+    "slug": "angular",
+    "icon": "https://skillicons.dev/icons?i=angular",
+    "category": "Frontend",
+    "name": "Angular"
+  },
+  {
+    "slug": "svelte",
+    "icon": "https://skillicons.dev/icons?i=svelte",
+    "category": "Frontend",
+    "name": "Svelte"
+  },
+  {
+    "slug": "nextjs",
+    "icon": "https://skillicons.dev/icons?i=nextjs",
+    "category": "Frontend",
+    "name": "Next.js"
+  },
+  {
+    "slug": "nuxtjs",
+    "icon": "https://skillicons.dev/icons?i=nuxtjs",
+    "category": "Frontend",
+    "name": "Nuxt.js"
+  },
+  {
+    "slug": "nodejs",
+    "icon": "https://skillicons.dev/icons?i=nodejs",
+    "category": "Backend",
+    "name": "Node.js"
+  },
+  {
+    "slug": "express",
+    "icon": "https://skillicons.dev/icons?i=express",
+    "category": "Backend",
+    "name": "Express"
+  },
+  {
+    "slug": "nestjs",
+    "icon": "https://skillicons.dev/icons?i=nestjs",
+    "category": "Backend",
+    "name": "NestJS"
+  },
+  {
+    "slug": "django",
+    "icon": "https://skillicons.dev/icons?i=django",
+    "category": "Backend",
+    "name": "Django"
+  },
+  {
+    "slug": "flask",
+    "icon": "https://skillicons.dev/icons?i=flask",
+    "category": "Backend",
+    "name": "Flask"
+  },
+  {
+    "slug": "fastapi",
+    "icon": "https://skillicons.dev/icons?i=fastapi",
+    "category": "Backend",
+    "name": "FastAPI"
+  },
+  {
+    "slug": "laravel",
+    "icon": "https://skillicons.dev/icons?i=laravel",
+    "category": "Backend",
+    "name": "Laravel"
+  },
+  {
+    "slug": "spring",
+    "icon": "https://skillicons.dev/icons?i=spring",
+    "category": "Backend",
+    "name": "Spring"
+  },
+  {
+    "slug": "mysql",
+    "icon": "https://skillicons.dev/icons?i=mysql",
+    "category": "Database",
+    "name": "MySQL"
+  },
+  {
+    "slug": "postgres",
+    "icon": "https://skillicons.dev/icons?i=postgres",
+    "category": "Database",
+    "name": "PostgreSQL"
+  },
+  {
+    "slug": "mongodb",
+    "icon": "https://skillicons.dev/icons?i=mongodb",
+    "category": "Database",
+    "name": "MongoDB"
+  },
+  {
+    "slug": "redis",
+    "icon": "https://skillicons.dev/icons?i=redis",
+    "category": "Database",
+    "name": "Redis"
+  },
+  {
+    "slug": "sqlite",
+    "icon": "https://skillicons.dev/icons?i=sqlite",
+    "category": "Database",
+    "name": "SQLite"
+  },
+  {
+    "slug": "firebase",
+    "icon": "https://skillicons.dev/icons?i=firebase",
+    "category": "Database",
+    "name": "Firebase"
+  },
+  {
+    "slug": "supabase",
+    "icon": "https://skillicons.dev/icons?i=supabase",
+    "category": "Database",
+    "name": "Supabase"
+  },
+  {
+    "slug": "docker",
+    "icon": "https://skillicons.dev/icons?i=docker",
+    "category": "DevOps",
+    "name": "Docker"
+  },
+  {
+    "slug": "kubernetes",
+    "icon": "https://skillicons.dev/icons?i=kubernetes",
+    "category": "DevOps",
+    "name": "Kubernetes"
+  },
+  {
+    "slug": "linux",
+    "icon": "https://skillicons.dev/icons?i=linux",
+    "category": "DevOps",
+    "name": "Linux"
+  },
+  {
+    "slug": "git",
+    "icon": "https://skillicons.dev/icons?i=git",
+    "category": "DevOps",
+    "name": "Git"
+  },
+  {
+    "slug": "github",
+    "icon": "https://skillicons.dev/icons?i=github",
+    "category": "DevOps",
+    "name": "GitHub"
+  },
+  {
+    "slug": "gitlab",
+    "icon": "https://skillicons.dev/icons?i=gitlab",
+    "category": "DevOps",
+    "name": "GitLab"
+  },
+  {
+    "slug": "githubactions",
+    "icon": "https://skillicons.dev/icons?i=githubactions",
+    "category": "DevOps",
+    "name": "GitHub Actions"
+  },
+  {
+    "slug": "aws",
+    "icon": "https://skillicons.dev/icons?i=aws",
+    "category": "Cloud",
+    "name": "AWS"
+  },
+  {
+    "slug": "azure",
+    "icon": "https://skillicons.dev/icons?i=azure",
+    "category": "Cloud",
+    "name": "Azure"
+  },
+  {
+    "slug": "gcp",
+    "icon": "https://skillicons.dev/icons?i=gcp",
+    "category": "Cloud",
+    "name": "Google Cloud"
+  },
+  {
+    "slug": "terraform",
+    "icon": "https://skillicons.dev/icons?i=terraform",
+    "category": "DevOps",
+    "name": "Terraform"
+  },
+  {
+    "slug": "nginx",
+    "icon": "https://skillicons.dev/icons?i=nginx",
+    "category": "DevOps",
+    "name": "Nginx"
+  },
+  {
+    "slug": "vite",
+    "icon": "https://skillicons.dev/icons?i=vite",
+    "category": "Tools",
+    "name": "Vite"
+  },
+  {
+    "slug": "webpack",
+    "icon": "https://skillicons.dev/icons?i=webpack",
+    "category": "Tools",
+    "name": "Webpack"
+  },
+  {
+    "slug": "figma",
+    "icon": "https://skillicons.dev/icons?i=figma",
+    "category": "Tools",
+    "name": "Figma"
+  },
+  {
+    "slug": "postman",
+    "icon": "https://skillicons.dev/icons?i=postman",
+    "category": "Tools",
+    "name": "Postman"
+  },
+  {
+    "slug": "vscode",
+    "icon": "https://skillicons.dev/icons?i=vscode",
+    "category": "Tools",
+    "name": "VS Code"
+  },
+  {
+    "slug": "bash",
+    "icon": "https://skillicons.dev/icons?i=bash",
+    "category": "Tools",
+    "name": "Bash"
+  },
+  {
+    "slug": "graphql",
+    "icon": "https://skillicons.dev/icons?i=graphql",
+    "category": "Backend",
+    "name": "GraphQL"
+  },
+  {
+    "slug": "jest",
+    "icon": "https://skillicons.dev/icons?i=jest",
+    "category": "Testing",
+    "name": "Jest"
+  }
+]

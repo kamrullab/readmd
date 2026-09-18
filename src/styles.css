@@ -14,3 +14,16 @@
 .badge-fallback{display:flex;flex-direction:column;gap:6px;padding:20px;margin:12px 0;border:1px dashed #f59e0b;border-radius:10px;background:#fffbeb;color:#92400e}.badge-fallback span{font-size:12px}.final-actions{display:flex;gap:10px;flex-wrap:wrap}.final-actions .btn{margin-top:0}@media(max-width:600px){.wizard-nav{gap:12px;align-items:flex-end}.final-actions{flex-direction:column}.final-actions .btn{width:100%;justify-content:center}}
 .empty-preview{padding:45px 20px;text-align:center;border:1px dashed #cbd5e1;border-radius:10px;color:#718097;background:#f8fafc}
 .badge-warning{padding:12px 14px;margin:15px 0;border:1px solid #fbbf24;border-radius:9px;background:#fffbeb;color:#92400e;font-size:13px}.badge-options input:disabled{cursor:not-allowed;opacity:.5}.badge-options label:has(input:disabled){opacity:.6;cursor:not-allowed}
+
+.skill-search{width:100%;padding:12px 14px;margin:8px 0 16px;border:1px solid #cfd9e8;border-radius:10px;font:inherit;background:#f9fbff}
+.skill-search:focus,.theme-select select:focus{outline:3px solid #176bff1f;border-color:#176bff}
+.theme-select{display:flex!important;align-items:center;justify-content:space-between;gap:16px;padding:14px;border:1px solid #d7e0ed;border-radius:10px;background:#f9fbff}
+.theme-select select{min-width:170px;padding:9px 12px;border:1px solid #cfd9e8;border-radius:8px;background:#fff;font:inherit}
+.preview-tabs{display:flex;gap:5px;padding:4px;background:#eef2f8;border-radius:9px}
+.preview-tabs button{border:0;background:transparent;color:#64748b;padding:7px 12px;border-radius:7px;font-weight:700;cursor:pointer}
+.preview-tabs button.active{background:#fff;color:#176bff;box-shadow:0 2px 8px #1e3a5f18}
+.markdown-output{min-height:360px;max-height:620px!important;margin:0;white-space:pre-wrap;overflow:auto;background:#111827!important;color:#dbeafe!important;padding:20px!important;border-radius:10px;font:12px/1.7 'Space Mono',monospace!important}
+.preview-export{display:flex;justify-content:flex-end;gap:8px;padding-top:16px;border-top:1px solid #e5eaf1;margin-top:18px}
+.preview-export .btn{margin-top:0}
+.btn:disabled{opacity:.45;cursor:not-allowed;transform:none!important}
+@media(max-width:520px){.theme-select{align-items:flex-start;flex-direction:column}.theme-select select{width:100%}.preview-export{flex-direction:column}.preview-export .btn{width:100%;justify-content:center}.wizard-form,.wizard-preview{padding:20px}.wizard-steps{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap;padding-bottom:6px}.wizard-steps button{white-space:nowrap}}
